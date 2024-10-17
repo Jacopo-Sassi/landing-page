@@ -122,10 +122,12 @@ a:link {
     justify-content: center;
     align-content: center;
     color: antiquewhite;
-    background-color: #3882F6;
+    background-color: rgb(252, 252, 252);
     padding: 80px;
     border-radius: 15px;
     margin-bottom: 15px;
+    border-style: solid;
+    border-color: #3882F6;
   }
   .sottoquadrati {
     display: flex;
@@ -181,8 +183,16 @@ a:link {
     margin-left: 1px;
     margin-right: -40px;
     margin-top: 150px;
-    width: 58%;
+    width: 60%;
+    background-color: #E5E7EB;
   }
   .grassetto {
-    
+    display: flex;
+    justify-content: flex-end;
+    margin-right: -80px;
+    padding-right: 260px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #1f2937;
+    background-color: #E5E7EB;
   }
