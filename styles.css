@@ -122,7 +122,7 @@ a:link {
     justify-content: center;
     align-content: center;
     color: antiquewhite;
-    background-color: rgb(252, 252, 252);
+    background-color: rgb(255, 255, 255);
     padding: 80px;
     border-radius: 15px;
     margin-bottom: 15px;
@@ -189,10 +189,70 @@ a:link {
   .grassetto {
     display: flex;
     justify-content: flex-end;
-    margin-right: -80px;
-    padding-right: 260px;
+    margin-right: -70px;
+    padding-right: 280px;
+    margin-left: -100px;
     font-weight: bold;
     font-size: 20px;
     color: #1f2937;
     background-color: #E5E7EB;
+    padding-bottom: 100px;
+  }
+  .quattro {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 120px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-left: -40px;
+    padding-top: 30px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+  }
+  .sottoquattro {
+    display: flex;
+  }
+  .sottotesto {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-left: 80px;
+    padding-bottom: 30px;
+    margin-bottom: 80px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+  }
+  .azione {
+    display: flex;
+    margin-left: 80px;
+  }
+  .pulsante {
+    display: flex;
+    margin-left: 20px;
+    margin-top: -10px;
+    border-style: solid;
+    border-color: #E5E7EB;
+    padding: 10px;
+    border-radius: 15px;
+  }
+  .cinque {
+display: flex;
+color: #E5E7EB;
+background-color: #1f2937;
+justify-content: center;
+align-content: center;
+padding-top: 30px;
+padding-bottom: 30px;
+margin-left: -100px;
+margin-right: -100px;
+margin-bottom: -100px;
   }
