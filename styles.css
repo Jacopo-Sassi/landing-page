@@ -9,7 +9,8 @@
     display: flex;
     background-color: #1f2937;
     flex-shrink: 0;
-    margin-left: -10px;
+    margin-left: -110px;
+    margin-right: -107px;
     margin-top: -10px;
 }
 
@@ -152,12 +153,12 @@ a:link {
     flex-shrink: 0;
     width: 30%;
     gap: 5px;
-    margin-left: 550px;
+    margin-left: 400px;
   }
   .s1{
     display: flex;
     justify-content:center;
-    margin-left: 220px;
+    margin-left: 320px;
     color: darkgray;
     flex-shrink: 0;
     width: 30%;
@@ -165,7 +166,7 @@ a:link {
   .s2{
     display: flex;
     justify-content:center;
-    margin-left: 45px;
+    margin-left: 65px;
     color: darkgray;
     width: 30%;
     flex-shrink: 0;
@@ -173,7 +174,7 @@ a:link {
   .s3{
     display: flex;
     justify-content:center;
-    margin-left: 30px;
+    margin-left: 60px;
     color: darkgray;
     flex-shrink: 0;
     width: 30%;
@@ -181,7 +182,7 @@ a:link {
   .s4 {
     display: flex;
     justify-content:center;
-    margin-left: 40px;
+    margin-left: 60px;
     margin-right: -70px;
     margin-bottom: 100px;
     color: darkgray;
@@ -193,8 +194,8 @@ a:link {
     background-color: #E5E7EB;
     justify-content: center;
     align-content: center;
-    margin-left: -10px;
-    margin-right: -70px;
+    margin-left: -110px;
+    margin-right: -107px;
     flex-shrink: 0;
 
   }
@@ -208,15 +209,15 @@ a:link {
     margin-left: -80px;
     margin-right: -40px;
     margin-top: 150px;
-    width: 37%;
+    width: 40%;
     background-color: #E5E7EB;
     flex-shrink: 0;
   }
   .grassetto {
     display: flex;
     justify-content: flex-end;
-    margin-right: -70px;
-    padding-right: 700px;
+    margin-right: -110px;
+    padding-right: 615px;
     margin-left: -100px;
     font-weight: bold;
     font-size: 20px;
@@ -278,6 +279,7 @@ a:link {
     padding-bottom: 15px;
     border-radius: 15px;
     flex-shrink: 0;
+    margin-right: 20px;
   }
   .cinque {
 display: flex;
@@ -287,14 +289,14 @@ justify-content: center;
 align-content: center;
 padding-top: 30px;
 padding-bottom: 30px;
-margin-left: -100px;
-margin-right: -100px;
-margin-bottom: -100px;
+margin-left: -110px;
+margin-right: -107px;
+margin-bottom: -102px;
 flex-shrink: 0;
 padding-right: 200px;
   }
   #wrapper {
     margin-left:auto;
     margin-right:auto;
-    width:2000px;
+    width:1700px;
 }
